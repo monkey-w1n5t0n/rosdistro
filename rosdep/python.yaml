@@ -7275,6 +7275,17 @@ python3-openhsi-pip:
   ubuntu:
     pip:
       packages: [openhsi]
+python3-python-osc-pip:
+  ubuntu:
+    pip:
+      packages: [python-osc]
+  debian:
+    pip:
+      packages: [python-osc]
+  fedora:
+    pip:
+      packages: [python-osc]
+
 python3-owlready2-pip:
   debian:
     pip:
