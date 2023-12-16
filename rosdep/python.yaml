@@ -7285,7 +7285,16 @@ python3-python-osc-pip:
   fedora:
     pip:
       packages: [python-osc]
-
+python-osc:
+  ubuntu:
+    pip:
+      packages: [python-osc]
+  debian:
+    pip:
+      packages: [python-osc]
+  fedora:
+    pip:
+      packages: [python-osc]
 python3-owlready2-pip:
   debian:
     pip:
